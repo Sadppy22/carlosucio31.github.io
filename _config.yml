@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: https://github.com/ZeroFbtron/fabianjv.github.io
-title: Perfil Personal
-email: fabianjimenezv01@gmail.com
-author: Fabian Jiménez Vásquez
+title: Carlos Lucio
+email: Javierluciocarlos31cjla@hotmail.com
+author: Carlos Lucio 
 description: > # "Perfil en donde se relata la informacion sobre las cosas que se han visto en la universidad durante estos meses. 
   You can edit this line in _config.yml. It will appear in your document 
   head meta (for Google search results) and in your feed.xml site 
@@ -26,9 +26,9 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
-    url: https://twitter.com/FabianJV01
+  - title: facebook
+    url: https://www.facebook.com/profile.php?id=100009169930741
   - title: github
-    url: https://github.com/ZeroFbtron
+    url: https://github.com/carloslucio31
   - title: instagram
-    url: https://www.instagram.com/fabian_jimenezv01
+    url: https://www.instagram.com/javi31jl/
