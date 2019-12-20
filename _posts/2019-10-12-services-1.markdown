@@ -1,7 +1,7 @@
 ---
 layout: default
 img: imagenc.jpg
-category: Clases
+category: services
 title: Algoritmo y Programacion en Software
 description: |
 ---
